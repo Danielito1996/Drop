@@ -1,8 +1,6 @@
 # Drop
 Pequeña librería de inyección de dependencia pensada para Ktor server para proyectos de poca concurrencia
 
-¡Claro! Aquí tienes un ejemplo de un README para tu librería de inyección de dependencias basada en Kotlin y coroutines:
-
 ---
 
 # DIContainer
@@ -143,8 +141,6 @@ fun main() = runBlocking {
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio que te gustaría hacer.
+Las contribuciones son bienvenidas y agradecidas. Por favor, abra un issue o un pull request para discutir cualquier cambio que te gustaría hacer.
 
 ---
-
-Con este README, tendrás una guía clara y concisa sobre cómo usar tu librería de inyección de dependencias. Si necesitas más detalles o tienes alguna pregunta específica, ¡házmelo saber!
